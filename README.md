@@ -1,6 +1,6 @@
 # Ling-Jun's showcase projects
 
-# [Project: LSTM-Stock-price][https://github.com/Ling-Jun/LSTM-Stock-price]
+# [Project: LSTM-Stock-price](https://github.com/Ling-Jun/LSTM-Stock-price)
 
 Long short-term memory (LSTM) unit is a building unit for layers of a recurrent neural network (RNN). A **RNN** composed of LSTM units is often called an LSTM network. A common LSTM unit is composed of a cell, an input gate, an output gate and a forget gate. The cell is responsible for "remembering" values over arbitrary time intervals; hence the word "memory" in LSTM. Each of the three gates can be thought of as a "conventional" artificial neuron, as in a multi-layer (or feedforward) neural network.
 
