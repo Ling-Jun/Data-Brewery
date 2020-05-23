@@ -1,4 +1,4 @@
-# Ling-Jun's showcase projects
+# Data Brewery
 
 # [Project: LSTM-Stock-price](https://github.com/Ling-Jun/LSTM-Stock-price)
 
